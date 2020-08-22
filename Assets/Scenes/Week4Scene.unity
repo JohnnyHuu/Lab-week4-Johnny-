@@ -164,9 +164,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 433eb8c959b09ff41bd9299a4d2e60cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LoadManager: {fileID: 0}
-  RedSphere: {fileID: 0}
-  blueSphere: {fileID: 0}
+  RedSphere: {fileID: 682325732616455024, guid: 42b160d9910f9f0499392e095cd8c73a,
+    type: 3}
+  blueSphere: {fileID: 1435086962580475760, guid: 52daa1a41489a724c8e504ca5b5e2a0a,
+    type: 3}
 --- !u!1 &681248591
 GameObject:
   m_ObjectHideFlags: 0
